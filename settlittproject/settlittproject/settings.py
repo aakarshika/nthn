@@ -56,7 +56,10 @@ ROOT_URLCONF = 'settlittproject.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [
+            os.path.join(BASE_DIR, 'templates/'),
+            os.path.join(BASE_DIR, 'welcome/views-html/')
+        ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -122,18 +125,15 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, "static"),'/images/users/',
-    os.path.join(BASE_DIR, "static"),'/images/questions/'
+    os.path.join(BASE_DIR, "static"), '/images/users/',
+    os.path.join(BASE_DIR, "static"), '/images/',
+    os.path.join(BASE_DIR, "static"), '/images/questions/'
+]
+
+TEMPLATE_DIRS = [
+    os.path.join(BASE_DIR, 'templates/'),
+    os.path.join(BASE_DIR, 'welcome/views-html/')
 ]
 
 
 STATIC_ROOT = "/Users/ak/api/aa/settlittproject/settlittapp/static"
-
-
-
-
-
-
-
-
-
