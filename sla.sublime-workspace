@@ -1,0 +1,260 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"C",
+				"CrossPlatformInputManager"
+			],
+			[
+				"cs",
+				"csv_logger"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"ma",
+				"main_face"
+			],
+			[
+				"c",
+				"c_area"
+			],
+			[
+				"de",
+				"dets"
+			],
+			[
+				"fra",
+				"frame_count"
+			],
+			[
+				"Ques",
+				"QuestionSet"
+			],
+			[
+				"u",
+				"u_username"
+			],
+			[
+				"set",
+				"settlittapp"
+			],
+			[
+				"sett",
+				"settlittproject"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ak/api/aa/settlittproject",
+		"/Users/ak/api/aa/settlittproject/settlittproject"
+	],
+	"file_history":
+	[
+		"/Users/ak/api/aa/settlittproject/welcome/views.py",
+		"/Users/ak/api/aa/settlittproject/welcome/serializers.py",
+		"/Users/ak/api/aa/settlittproject/welcome/urls.py",
+		"/Users/ak/api/aa/settlittproject/welcome/views-html/yo.html",
+		"/Users/ak/api/aa/settlittproject/settlittproject/settings.py",
+		"/Users/ak/api/aa/settlittproject/manage.py",
+		"/Users/ak/api/aa/settlittproject/welcome/models.py",
+		"/Users/ak/api/aa/settlittproject/settlittproject/urls.py",
+		"/Users/ak/api/aa/settlittproject/settlittapp/urls.py",
+		"/Users/ak/api/aa/settlittproject/settlittapp/views.py",
+		"/Users/ak/api/aa/settlittproject/welcome/apps.py",
+		"/P - Parrot",
+		"/Users/ak/Desktop/lolness/cover letter",
+		"/Users/ak/Desktop/lolness/yo.py",
+		"/Users/ak/Desktop/lolness/from typing import List",
+		"/Users/ak/unity/trumpMan/Assets/assignmntlink",
+		"/uygf",
+		"/Users/ak/unity/trumpMan/Assets/trumpContr.cs",
+		"/Users/ak/unity/trumpMan/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs",
+		"/var/folders/vr/ztm5qxjx15v62_1pc_wylb9h0000gn/T/fz3temp-2/TrainAffectnet.py",
+		"/Users/ak/Downloads/TrainAffectnet.py",
+		"/var/folders/vr/ztm5qxjx15v62_1pc_wylb9h0000gn/T/fz3temp-2/TrainAffectnet 2.py",
+		"/var/folders/vr/ztm5qxjx15v62_1pc_wylb9h0000gn/T/fz3temp-2/resnext.py",
+		"/var/folders/vr/ztm5qxjx15v62_1pc_wylb9h0000gn/T/fz3temp-2/DGW_preprocessing.py",
+		"/var/folders/vr/ztm5qxjx15v62_1pc_wylb9h0000gn/T/fz3temp-2/dlib_cnn4.py",
+		"/Users/ak/Desktop/dlib_cnn.py",
+		"/var/folders/vr/ztm5qxjx15v62_1pc_wylb9h0000gn/T/fz3temp-2/dlib_face1.py",
+		"/var/folders/vr/ztm5qxjx15v62_1pc_wylb9h0000gn/T/fz3temp-2/dlib_cnn2.py",
+		"/var/folders/vr/ztm5qxjx15v62_1pc_wylb9h0000gn/T/fz3temp-2/dlib_cnn.py",
+		"/var/folders/vr/ztm5qxjx15v62_1pc_wylb9h0000gn/T/fz3temp-2/dlib_cnn3.py",
+		"/var/folders/vr/ztm5qxjx15v62_1pc_wylb9h0000gn/T/fz3temp-2/dlib_cnn1.py",
+		"/Users/ak/api/aa/settlittproject/settlittapp/admin.py",
+		"/Users/ak/api/aa/settlittproject/settlittapp/serializers.py",
+		"/Users/ak/api/aa/settlittproject/settlittapp/models.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"TEMPLAT"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sla.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
